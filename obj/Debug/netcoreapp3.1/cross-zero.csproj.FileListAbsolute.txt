@@ -1,0 +1,13 @@
+/Users/ravdi/Pet-projects/cross-zero/bin/Debug/netcoreapp3.1/cross-zero.deps.json
+/Users/ravdi/Pet-projects/cross-zero/bin/Debug/netcoreapp3.1/cross-zero.runtimeconfig.json
+/Users/ravdi/Pet-projects/cross-zero/bin/Debug/netcoreapp3.1/cross-zero.runtimeconfig.dev.json
+/Users/ravdi/Pet-projects/cross-zero/bin/Debug/netcoreapp3.1/cross-zero.dll
+/Users/ravdi/Pet-projects/cross-zero/bin/Debug/netcoreapp3.1/cross-zero.pdb
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.csproj.AssemblyReference.cache
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.AssemblyInfoInputs.cache
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.AssemblyInfo.cs
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.csproj.CoreCompileInputs.cache
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.dll
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.pdb
+/Users/ravdi/Pet-projects/cross-zero/obj/Debug/netcoreapp3.1/cross-zero.genruntimeconfig.cache
