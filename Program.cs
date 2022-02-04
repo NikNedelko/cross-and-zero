@@ -1,14 +1,12 @@
 ﻿using System;
-
+using cross_zero.GameEngine;
 namespace cross_zero
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             StartGame.GameStartsNow.Intro();
-
         }
     }
 }
